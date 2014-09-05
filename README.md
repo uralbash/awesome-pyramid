@@ -215,4 +215,4 @@ Where to discover new Pyramid apps and projects.
 
 # Contributing
 
-[Contributing](http://docs.pylonsproject.org/en/latest/#contributing)
+Just fork and send a pull request with your awesome Pyramid apps, projects or resources.
