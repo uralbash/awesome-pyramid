@@ -10,12 +10,7 @@ A curated list of awesome Pyramid apps, projects and resources. Inspired by and 
     - [Caching](#caching)
     - [Debugging](#debugging)
     - [Email](#email)
-    - [Fields](#fields)
-    - [File Transfers](#file-transfers)
     - [Forms](#forms)
-    - [Migrations](#migrations)
-    - [Model Extensions](#model-extensions)
-    - [Project Management](#project-management)
     - [RESTful API](#restful-api)
     - [Search](#search)
     - [Security](#security)
@@ -87,36 +82,20 @@ A curated list of awesome Pyramid apps, projects and resources. Inspired by and 
 
 * [pyramid_mailer](https://github.com/Pylons/pyramid_mailer) - A package for sending email from your Pyramid application.
 
-## Fields
-
-*Packages that extend the functionality of existing field type or add new field types.*
-
-## File Transfers
-
-*Packages that help transfer files between projects and users*
-
 ## Forms
 
 *Packages that extend the functionality of forms or add new types of forms.*
 
 * [deform](https://github.com/Pylons/deform) - is a Python HTML form generation library.
 * [colander](https://github.com/Pylons/colander) - A serialization/deserialization/validation library for strings, mappings and lists.
+* [WTForms](https://github.com/wtforms/wtforms) - is a flexible forms validation and rendering library for python web development.
 
 ## RESTful API
 
 *Packages for developing RESTful APIs.*
 
 * [cornice](https://github.com/mozilla-services/cornice) - provides helpers to build & document REST-ish Web Services with Pyramid, with decent default behaviors. It takes care of following the HTTP specification in an automated way where possible.
-
-## Migrations
-
-*Packages that help migrate the database when there are schema updates.*
-
-## Model Extensions
-
-*Packages that extend the functionality of models or add new classes of models.*
-
-## Project Management
+* [rest_toolkit](https://github.com/wichert/rest_toolkit) - is a Python package which provides a very convenient way to build REST servers. It is build on top of Pyramid, but you do not need to know much about Pyramid to use rest_toolkit.
 
 ## Search
 
