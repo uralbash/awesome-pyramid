@@ -11,6 +11,7 @@ A curated list of awesome Pyramid apps, projects and resources. Inspired by and 
     - [Debugging](#debugging)
     - [Email](#email)
     - [Forms](#forms)
+    - [Media-Management](#media-management)
     - [RESTful API](#restful-api)
     - [Search](#search)
     - [Security](#security)
@@ -18,8 +19,6 @@ A curated list of awesome Pyramid apps, projects and resources. Inspired by and 
     - [Storage](#storage)
     - [Task Queue](#task-queue)
     - [Testing](#testing)
-    - [Thumbnail](#thumbnail)
-    - [Cropping Images](#cropping-image)
     - [Translations](#translations)
     - [Web frontend integration](#web-frontend-integration)
     - [Workflows](#workflows)
@@ -35,9 +34,6 @@ A curated list of awesome Pyramid apps, projects and resources. Inspired by and 
     - [Conferences](#conferences)
     - [Videos](#videos)
 - [Contributing](#contributing)
-
-
-
 
 ## Admin interface
 
@@ -55,6 +51,9 @@ A curated list of awesome Pyramid apps, projects and resources. Inspired by and 
 ## Authentication
 
 *Packages that improve or extend the authentication methods of Pyramid.*
+
+* [pyramid_ldap](https://github.com/Pylons/pyramid_ldap) - an LDAP authentication policy for Pyramid.
+* [pyramid_who](https://github.com/Pylons/pyramid_who) - Authentication policy for pyramid using repoze.who 2.0 API.
 
 ## Authorization
 
@@ -75,6 +74,7 @@ A curated list of awesome Pyramid apps, projects and resources. Inspired by and 
 *Packages that help hunt down bugs.*
 
 * [pyramid_debugtoolbar](https://github.com/Pylons/pyramid_debugtoolbar) - provides a debug toolbar useful while you're developing your Pyramid application.
+* [pyramid_exclog](https://github.com/Pylons/pyramid_exclog) - a package which logs exceptions from Pyramid applications.
 
 ## Email
 
@@ -89,6 +89,11 @@ A curated list of awesome Pyramid apps, projects and resources. Inspired by and 
 * [deform](https://github.com/Pylons/deform) - is a Python HTML form generation library.
 * [colander](https://github.com/Pylons/colander) - A serialization/deserialization/validation library for strings, mappings and lists.
 * [WTForms](https://github.com/wtforms/wtforms) - is a flexible forms validation and rendering library for python web development.
+
+
+## Media-Management
+
+* [pyramid_elfinder](https://github.com/ITCase/pyramid_elfinder) - This is conector for elfinder file manager, written for pyramid framework.
 
 ## RESTful API
 
@@ -111,11 +116,14 @@ A curated list of awesome Pyramid apps, projects and resources. Inspired by and 
 
 *Packages that help manage the configurability of projects.*
 
+* [pyramid_zcml](https://github.com/Pylons/pyramid_zcml) - Zope Configuration Markup Language configuration support for Pyramid.
+
 ## Storage
 
 *Packages that extend the functionality of the existing storage backend or provide new storage backends.*
 
 * [pyramid_sqlalchemy](https://github.com/wichert/pyramid_sqlalchemy) - provides some basic glue to facilitate using SQLAlchemy with Pyramid.
+* [pyramid_zodbconn](https://github.com/Pylons/pyramid_zodbconn) - ZODB Database connection management for Pyramid.
 
 ## Task Queue
 
@@ -135,14 +143,6 @@ The easiest way to monitor and use [RQ](http://python-rq.org) in your Pyramid pr
 
 *Packages that help test code or generate test data.*
 
-## Thumbnail
-
-*Packages that help generate thumbnails.*
-
-## Cropping Image
-
-*Packages that help to crop Images.*
-
 ## Translations
 
 *Packages help with the task of translating projects.*
@@ -158,6 +158,10 @@ The easiest way to monitor and use [RQ](http://python-rq.org) in your Pyramid pr
 * [pyramid_layout](https://github.com/Pylons/pyramid_layout) - Pyramid add-on for managing UI layouts.
 * [pyramid_skins](https://github.com/Pylons/pyramid_skins) - This package provides a simple framework to integrate code with templates and resources.
 * [waitress](https://github.com/Pylons/waitress) - Waitress is meant to be a production-quality pure-Python WSGI server with very acceptable performance. It has no dependencies except ones which live in the Python standard library.
+* [pyramid_handlers](https://github.com/Pylons/pyramid_handlers) - analogue of Pylons-style “controllers” for Pyramid.
+* [pyramid_rpc](https://github.com/Pylons/pyramid_rpc) - RPC service add-on for Pyramid, supports XML-RPC in a more extensible manner than pyramid_xmlrpc with support for JSON-RPC and AMF.
+* [pyramid_xmlrpc](https://github.com/Pylons/pyramid_xmlrpc) - XML-RPC add-on for Pyramid.
+* [pyramid_tm](https://github.com/Pylons/pyramid_tm) - Centralized transaction management for Pyramid applications (without middleware).
 
 # Projects
 
@@ -168,10 +172,18 @@ The easiest way to monitor and use [RQ](http://python-rq.org) in your Pyramid pr
 * [nive_cms](https://github.com/nive/nive_cms) - Nive is professional out the box content management system for mobile and desktop websites based on python and the webframework pyramid. Please refer to the website cms.nive.co for detailed information.
 * [substanced](https://github.com/Pylons/substanced) - An application server built upon the Pyramid web framework. It provides a user interface for managing content as well as libraries and utilities which make it easy to create applications.
 * [Kotti](https://github.com/Kotti/Kotti) - A user-friendly, light-weight and extensible web content management system. Based on Pyramid and SQLAlchemy.
+* [KARL](http://karlproject.org/) -     A moderately-sized application (roughly 80K lines of Python code) built on top of Pyramid. It is an open source web system for collaboration, organizational intranets, and knowledge management. It provides facilities for wikis, calendars, manuals, searching, tagging, commenting, and file uploads. See the KARL site for download and installation details.
 
 ## e-Commerce
 
 ## Other
+
+* [cluegun](https://github.com/Pylons/cluegun) - A simple pastebin application based on Rocky Burt’s ClueBin. It demonstrates form processing, security, and the use of ZODB within a Pyramid application.
+* [shootout](https://github.com/Pylons/shootout.git) - An example “idea competition” application by Carlos de la Guardia and Lukasz Fidosz. It demonstrates URL dispatch, simple authentication, integration with SQLAlchemy and pyramid_simpleform.
+* [virginia](https://github.com/Pylons/virginia.git) - A very simple dynamic file rendering application. It is willing to render structured text documents, HTML documents, and images from a filesystem directory. It’s also a good example of traversal. An earlier version of this application runs the repoze.org website.
+* [Akhet](http://docs.pylonsproject.org/projects/akhet/en/latest/) -     A Pyramid library and demo application with a Pylons-like feel. Its most known for its former application scaffold, which helped users transition from Pylons and those preferring a more Pylons-like API. The scaffold has been retired but the demo plays a similar role.
+* [Khufu Project](http://khufuproject.github.com/) - Khufu is an application scaffolding for Pyramid that provides an environment to work with Jinja2 and SQLAlchemy.
+* [Ptah](https://github.com/ptahproject/ptah) - Ptah is a fast, fun, open source high-level Python web development environment.
 
 ## Project Management
 
@@ -184,13 +196,11 @@ Where to discover new Pyramid apps and projects.
 ## Websites
 
 * [Try Pyramid](http://trypyramid.com/) - Pyramid is easy to set up and use.
-* [Pyramid site](http://www.pylonsproject.org/projects/pyramid/about) official site of Pyramid.
+* [Pyramid site](http://www.pylonsproject.org/projects/pyramid/about) -  official site of Pyramid.
 
 ## Conferences
 
-
 ## Videos
-
 
 # Contributing
 
