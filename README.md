@@ -143,6 +143,8 @@ The easiest way to monitor and use [RQ](http://python-rq.org) in your Pyramid pr
 
 *Packages that help test code or generate test data.*
 
+* [webtest](https://github.com/Pylons/webtest) - Wraps any WSGI application and makes it easy to send test requests to that application, without starting up an HTTP server.
+
 ## Translations
 
 *Packages help with the task of translating projects.*
@@ -162,6 +164,7 @@ The easiest way to monitor and use [RQ](http://python-rq.org) in your Pyramid pr
 * [pyramid_rpc](https://github.com/Pylons/pyramid_rpc) - RPC service add-on for Pyramid, supports XML-RPC in a more extensible manner than pyramid_xmlrpc with support for JSON-RPC and AMF.
 * [pyramid_xmlrpc](https://github.com/Pylons/pyramid_xmlrpc) - XML-RPC add-on for Pyramid.
 * [pyramid_tm](https://github.com/Pylons/pyramid_tm) - Centralized transaction management for Pyramid applications (without middleware).
+* [paginate](https://github.com/Pylons/paginate) - Python pagination module.
 
 # Projects
 
