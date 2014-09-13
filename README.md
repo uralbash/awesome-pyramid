@@ -166,6 +166,7 @@ The easiest way to monitor and use [RQ](http://python-rq.org) in your Pyramid pr
 * [pyramid_xmlrpc](https://github.com/Pylons/pyramid_xmlrpc) - XML-RPC add-on for Pyramid.
 * [pyramid_tm](https://github.com/Pylons/pyramid_tm) - Centralized transaction management for Pyramid applications (without middleware).
 * [paginate](https://github.com/Pylons/paginate) - Python pagination module.
+* [pyramid_tablib](https://github.com/lxneng/pyramid_tablib) - tablib renderer (xlsx, xls, csv) for pyramid
 
 # Projects
 
