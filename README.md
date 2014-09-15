@@ -69,6 +69,7 @@ A curated list of awesome Pyramid apps, projects and resources. Inspired by and 
 *Packages that help with caching.*
 
 * [pyramid_beaker](https://github.com/Pylons/pyramid_beaker) - A Beaker session factory backend for Pyramid, also cache configurator.
+* [pyramid_redis_sessions](https://github.com/ericrasmussen/pyramid_redis_sessions) - Pyramid web framework session factory backed by Redis.
 
 ## Debugging
 
