@@ -54,6 +54,7 @@ A curated list of awesome Pyramid apps, projects and resources. Inspired by and 
 
 * [pyramid_ldap](https://github.com/Pylons/pyramid_ldap) - an LDAP authentication policy for Pyramid.
 * [pyramid_who](https://github.com/Pylons/pyramid_who) - Authentication policy for pyramid using repoze.who 2.0 API.
+* [velruse](https://github.com/bbangert/velruse) - Simplifying third-party authentication for web applications. it supports most of auth [providers](https://github.com/bbangert/velruse/tree/master/velruse/providers).
 
 ## Authorization
 
@@ -165,6 +166,7 @@ The easiest way to monitor and use [RQ](http://python-rq.org) in your Pyramid pr
 * [pyramid_xmlrpc](https://github.com/Pylons/pyramid_xmlrpc) - XML-RPC add-on for Pyramid.
 * [pyramid_tm](https://github.com/Pylons/pyramid_tm) - Centralized transaction management for Pyramid applications (without middleware).
 * [paginate](https://github.com/Pylons/paginate) - Python pagination module.
+* [pyramid_tablib](https://github.com/lxneng/pyramid_tablib) - tablib renderer (xlsx, xls, csv) for pyramid
 
 # Projects
 
