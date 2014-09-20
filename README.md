@@ -70,6 +70,7 @@ A curated list of awesome Pyramid apps, projects and resources. Inspired by and 
 
 * [pyramid_beaker](https://github.com/Pylons/pyramid_beaker) - A Beaker session factory backend for Pyramid, also cache configurator.
 * [pyramid_redis_sessions](https://github.com/ericrasmussen/pyramid_redis_sessions) - Pyramid web framework session factory backed by Redis.
+* [pyramid_dogpile_cache](https://github.com/moriyoshi/pyramid_dogpile_cache) - dogpile.cache configuration package for Pyramid
 
 ## Debugging
 
@@ -83,6 +84,7 @@ A curated list of awesome Pyramid apps, projects and resources. Inspired by and 
 *Packages that help manage email sending.*
 
 * [pyramid_mailer](https://github.com/Pylons/pyramid_mailer) - A package for sending email from your Pyramid application.
+* [pyramid_marrowmailer](https://github.com/iElectric/pyramid_marrowmailer) - Pyramid integration package for marrow.mailer, formerly known as TurboMail
 
 ## Forms
 
