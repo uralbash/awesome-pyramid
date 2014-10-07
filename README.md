@@ -55,7 +55,7 @@ A curated list of awesome Pyramid apps, projects and resources. Inspired by and 
 * [pyramid_ldap](https://github.com/Pylons/pyramid_ldap) - an LDAP authentication policy for Pyramid.
 * [pyramid_who](https://github.com/Pylons/pyramid_who) - Authentication policy for pyramid using repoze.who 2.0 API.
 * [velruse](https://github.com/bbangert/velruse) - Simplifying third-party authentication for web applications. it supports most of auth [providers](https://github.com/bbangert/velruse/tree/master/velruse/providers).
-* [pyramid_persona](https://github.com/madjar/pyramid_persona) - Pyramid plugin to use persona for authentication.
+* [pyramid_persona](https://github.com/madjar/pyramid_persona) - Pyramid plugin to use [persona](https://login.persona.org/) for authentication.
 
 ## Authorization
 
