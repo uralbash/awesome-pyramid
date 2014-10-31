@@ -214,3 +214,7 @@ Where to discover new Pyramid apps and projects.
 # Contributing
 
 Just fork and send a pull request with your awesome Pyramid apps, projects or resources.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/ITCase/awesome-pyramid/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
