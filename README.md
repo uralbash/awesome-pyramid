@@ -47,6 +47,7 @@ A curated list of awesome Pyramid apps, projects and resources. Inspired by and 
 *Packages that help manage the static assets of a project.*
 
 * [pyramid_webassets](https://github.com/sontek/pyramid_webassets) - Pyramid extension for working with the webassets library.
+* [pyramid_bowerstatic](https://github.com/mrijken/pyramid_bowerstatic) - integration of Bowerstatic in Pyramid
 
 ## Authentication
 
@@ -79,6 +80,7 @@ A curated list of awesome Pyramid apps, projects and resources. Inspired by and 
 
 * [pyramid_debugtoolbar](https://github.com/Pylons/pyramid_debugtoolbar) - provides a debug toolbar useful while you're developing your Pyramid application.
 * [pyramid_exclog](https://github.com/Pylons/pyramid_exclog) - a package which logs exceptions from Pyramid applications.
+* [pyramid_debugtoolbar_dogpile](https://github.com/jvanasco/pyramid_debugtoolbar_dogpile) - dogpile caching support for pyramid_debugtoolbar
 
 ## Email
 
