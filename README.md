@@ -173,6 +173,7 @@ The easiest way to monitor and use [RQ](http://python-rq.org) in your Pyramid pr
 * [pyramid_tm](https://github.com/Pylons/pyramid_tm) - Centralized transaction management for Pyramid applications (without middleware).
 * [paginate](https://github.com/Pylons/paginate) - Python pagination module.
 * [pyramid_tablib](https://github.com/lxneng/pyramid_tablib) - tablib renderer (xlsx, xls, csv) for pyramid
+* [pyramid_sacrud_pages](https://github.com/ITCase/pyramid_sacrud_pages) - Provides a collections of tree pages to your Pyramid application.
 
 # Projects
 
@@ -195,6 +196,7 @@ The easiest way to monitor and use [RQ](http://python-rq.org) in your Pyramid pr
 * [Akhet](http://docs.pylonsproject.org/projects/akhet/en/latest/) -     A Pyramid library and demo application with a Pylons-like feel. Its most known for its former application scaffold, which helped users transition from Pylons and those preferring a more Pylons-like API. The scaffold has been retired but the demo plays a similar role.
 * [Khufu Project](http://khufuproject.github.com/) - Khufu is an application scaffolding for Pyramid that provides an environment to work with Jinja2 and SQLAlchemy.
 * [Ptah](https://github.com/ptahproject/ptah) - Ptah is a fast, fun, open source high-level Python web development environment.
+* [pyramid_sacrud_example](https://github.com/ITCase/pyramid_sacrud_example) - Demo app for pyramid extension of sacrud
 
 ## Project Management
 
