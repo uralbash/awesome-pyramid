@@ -24,6 +24,7 @@ A curated list of awesome Pyramid apps, projects and resources. Inspired by and 
     - [Workflows](#workflows)
     - [Other](#other)
 - [Projects](#projects)
+    - [Framework](#framework)
     - [CMS](#cms)
     - [e-Commerce](#e-commerce)
     - [Project Management](#project-management)
@@ -108,6 +109,7 @@ A curated list of awesome Pyramid apps, projects and resources. Inspired by and 
 
 * [cornice](https://github.com/mozilla-services/cornice) - provides helpers to build & document REST-ish Web Services with Pyramid, with decent default behaviors. It takes care of following the HTTP specification in an automated way where possible.
 * [rest_toolkit](https://github.com/wichert/rest_toolkit) - is a Python package which provides a very convenient way to build REST servers. It is build on top of Pyramid, but you do not need to know much about Pyramid to use rest_toolkit.
+* [pyramid_royal](https://github.com/hadrien/pyramid_royal) - Royal is a pyramid extension which eases writing RESTful web applications.
 
 ## Search
 
@@ -179,6 +181,10 @@ The easiest way to monitor and use [RQ](http://python-rq.org) in your Pyramid pr
 
 *Outstanding Pyramid projects.*
 
+## Framework
+
+* [Ringo](http://ringo-dev.intevation.de/) - Ringo is a Python based high level web application framework build on top of Pyramid. The framework can be used to build form based management or administration software. 
+
 ## CMS
 
 * [nive_cms](https://github.com/nive/nive_cms) - Nive is professional out the box content management system for mobile and desktop websites based on python and the webframework pyramid. Please refer to the website cms.nive.co for detailed information.
@@ -218,7 +224,3 @@ Where to discover new Pyramid apps and projects.
 # Contributing
 
 Just fork and send a pull request with your awesome Pyramid apps, projects or resources.
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/ITCase/awesome-pyramid/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
