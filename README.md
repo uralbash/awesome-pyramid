@@ -176,6 +176,7 @@ The easiest way to monitor and use [RQ](http://python-rq.org) in your Pyramid pr
 * [paginate](https://github.com/Pylons/paginate) - Python pagination module.
 * [pyramid_tablib](https://github.com/lxneng/pyramid_tablib) - tablib renderer (xlsx, xls, csv) for pyramid
 * [pyramid_sacrud_pages](https://github.com/ITCase/pyramid_sacrud_pages) - Provides a collections of tree pages to your Pyramid application.
+* [tomb_routes](https://github.com/sontek/tomb_routes) - Simple utility library around pyramid routing
 
 # Projects
 
