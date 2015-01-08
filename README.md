@@ -5,6 +5,7 @@ A curated list of awesome Pyramid apps, projects and resources. Inspired by and 
 - [Awesome Pyramid](#awesome-pyramid)
     - [Admin Interface](#admin-interface)
     - [Asset Management](#asset-management)
+    - [Async](#async)
     - [Authentication](#authentication)
     - [Authorization](#authorization)
     - [Caching](#caching)
@@ -49,6 +50,11 @@ A curated list of awesome Pyramid apps, projects and resources. Inspired by and 
 
 * [pyramid_webassets](https://github.com/sontek/pyramid_webassets) - Pyramid extension for working with the webassets library.
 * [pyramid_bowerstatic](https://github.com/mrijken/pyramid_bowerstatic) - integration of Bowerstatic in Pyramid
+
+## Async
+
+* [aiopyramid](https://github.com/housleyjk/aiopyramid) - Run pyramid using asyncio.
+* [gevent-socketio](https://github.com/abourget/gevent-socketio) - gevent-socketio is a Python implementation of the Socket.IO protocol, developed originally for Node.js by LearnBoost and then ported to other languages.
 
 ## Authentication
 
