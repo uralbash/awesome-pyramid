@@ -178,7 +178,7 @@ The easiest way to monitor and use [RQ](http://python-rq.org) in your Pyramid pr
 * [waitress](https://github.com/Pylons/waitress) - Waitress is meant to be a production-quality pure-Python WSGI server with very acceptable performance. It has no dependencies except ones which live in the Python standard library.
 * [pyramid_handlers](https://github.com/Pylons/pyramid_handlers) - analogue of Pylons-style “controllers” for Pyramid.
 * [pyramid_rpc](https://github.com/Pylons/pyramid_rpc) - RPC service add-on for Pyramid, supports XML-RPC in a more extensible manner than pyramid_xmlrpc with support for JSON-RPC and AMF.
-* [pyramid_xmlrpc](https://github.com/Pylons/pyramid_xmlrpc) - XML-RPC add-on for Pyramid.
+* [pyramid_autodoc](https://github.com/SurveyMonkey/pyramid_autodoc) - Sphinx extension for documenting your Pyramid APIs.
 * [pyramid_tm](https://github.com/Pylons/pyramid_tm) - Centralized transaction management for Pyramid applications (without middleware).
 * [paginate](https://github.com/Pylons/paginate) - Python pagination module.
 * [pyramid_tablib](https://github.com/lxneng/pyramid_tablib) - tablib renderer (xlsx, xls, csv) for pyramid
