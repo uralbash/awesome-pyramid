@@ -140,6 +140,7 @@ A curated list of awesome Pyramid apps, projects and resources. Inspired by and 
 
 * [pyramid_sqlalchemy](https://github.com/wichert/pyramid_sqlalchemy) - provides some basic glue to facilitate using SQLAlchemy with Pyramid.
 * [pyramid_zodbconn](https://github.com/Pylons/pyramid_zodbconn) - ZODB Database connection management for Pyramid.
+* [pyramid_mongoengine](https://github.com/marioidival/pyramid_mongoengine) - pyramid-mongoengine package based on flask-mongoengine
 
 ## Task Queue
 
