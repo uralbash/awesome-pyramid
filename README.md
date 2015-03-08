@@ -104,7 +104,7 @@ A curated list of awesome Pyramid apps, projects and resources. Inspired by and 
 * [deform](https://github.com/Pylons/deform) - is a Python HTML form generation library.
 * [colander](https://github.com/Pylons/colander) - A serialization/deserialization/validation library for strings, mappings and lists.
 * [WTForms](https://github.com/wtforms/wtforms) - is a flexible forms validation and rendering library for python web development.
-
+* [ColanderAlchemy](https://github.com/stefanofontanelli/ColanderAlchemy) - helps you to auto-generate Colander schemas that are based on SQLAlchemy mapped classes.
 
 ## Media-Management
 
