@@ -30,11 +30,6 @@ A curated list of awesome Pyramid apps, projects and resources. Inspired by and 
     - [e-Commerce](#e-commerce)
     - [Project Management](#project-management)
     - [Other](#other)
-- [Resources](#resources)
-    - [Books](#books)
-    - [Websites](#websites)
-    - [Conferences](#conferences)
-    - [Videos](#videos)
 - [Contributing](#contributing)
 
 ## Admin interface
@@ -192,7 +187,7 @@ The easiest way to monitor and use [RQ](http://python-rq.org) in your Pyramid pr
 
 ## Framework
 
-* [Ringo](http://ringo-dev.intevation.de/) - Ringo is a Python based high level web application framework build on top of Pyramid. The framework can be used to build form based management or administration software. 
+* [Ringo](http://ringo-dev.intevation.de/) - Ringo is a Python based high level web application framework build on top of Pyramid. The framework can be used to build form based management or administration software.
 
 ## CMS
 
@@ -203,6 +198,8 @@ The easiest way to monitor and use [RQ](http://python-rq.org) in your Pyramid pr
 
 ## e-Commerce
 
+## Project Management
+
 ## Other
 
 * [cluegun](https://github.com/Pylons/cluegun) - A simple pastebin application based on Rocky Burt’s ClueBin. It demonstrates form processing, security, and the use of ZODB within a Pyramid application.
@@ -212,23 +209,6 @@ The easiest way to monitor and use [RQ](http://python-rq.org) in your Pyramid pr
 * [Khufu Project](http://khufuproject.github.com/) - Khufu is an application scaffolding for Pyramid that provides an environment to work with Jinja2 and SQLAlchemy.
 * [Ptah](https://github.com/ptahproject/ptah) - Ptah is a fast, fun, open source high-level Python web development environment.
 * [pyramid_sacrud_example](https://github.com/ITCase/pyramid_sacrud_example) - Demo app for pyramid extension of sacrud
-
-## Project Management
-
-# Resources
-
-Where to discover new Pyramid apps and projects.
-
-## Books
-
-## Websites
-
-* [Try Pyramid](http://trypyramid.com/) - Pyramid is easy to set up and use.
-* [Pyramid site](http://www.pylonsproject.org/projects/pyramid/about) -  official site of Pyramid.
-
-## Conferences
-
-## Videos
 
 # Contributing
 
