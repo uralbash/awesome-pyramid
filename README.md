@@ -155,6 +155,7 @@ The easiest way to monitor and use [RQ](http://python-rq.org) in your Pyramid pr
 * [pyramid_mako](https://github.com/Pylons/pyramid_mako) - Mako templating system bindings for the Pyramid web framework.
 * [pyramid_chameleon](https://github.com/Pylons/pyramid_chameleon) - Chameleon template compiler for pyramid.
 * [pyramid_jinja2](https://github.com/Pylons/pyramid_jinja2) - Jinja2 templating system bindings for the Pyramid web framework.
+* [Tonnikala](https://github.com/ztane/Tonnikala) - Python templating engine with Pyramid integration
 
 ## Testing
 
