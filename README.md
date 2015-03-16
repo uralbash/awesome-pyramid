@@ -213,6 +213,7 @@ The easiest way to monitor and use [RQ](http://python-rq.org) in your Pyramid pr
 * [Khufu Project](http://khufuproject.github.com/) - Khufu is an application scaffolding for Pyramid that provides an environment to work with Jinja2 and SQLAlchemy.
 * [Ptah](https://github.com/ptahproject/ptah) - Ptah is a fast, fun, open source high-level Python web development environment.
 * [pyramid_sacrud_example](https://github.com/ITCase/pyramid_sacrud_example) - Demo app for pyramid extension of sacrud
+* [warehouse](https://github.com/pypa/warehouse) - Warehouse is a next generation Python Package Repository designed to replace the legacy code base that currently powers PyPI.
 
 ## Project Management
 
