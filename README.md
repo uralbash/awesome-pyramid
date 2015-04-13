@@ -55,6 +55,7 @@ A curated list of awesome Pyramid apps, projects and resources. Inspired by and 
 
 * [aiopyramid](https://github.com/housleyjk/aiopyramid) - Run pyramid using asyncio.
 * [gevent-socketio](https://github.com/abourget/gevent-socketio) - gevent-socketio is a Python implementation of the Socket.IO protocol, developed originally for Node.js by LearnBoost and then ported to other languages.
+* [Stargate](https://github.com/boothead/stargate) - Stargate is a package for adding WebSockets support to pyramid applications using the excellent eventlet library for long running connections.
 
 ## Authentication
 
