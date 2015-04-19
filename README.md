@@ -65,6 +65,7 @@ A curated list of awesome Pyramid apps, projects and resources. Inspired by and 
 * [pyramid_who](https://github.com/Pylons/pyramid_who) - Authentication policy for pyramid using repoze.who 2.0 API.
 * [velruse](https://github.com/bbangert/velruse) - Simplifying third-party authentication for web applications. it supports most of auth [providers](https://github.com/bbangert/velruse/tree/master/velruse/providers).
 * [pyramid_persona](https://github.com/madjar/pyramid_persona) - Pyramid plugin to use [persona](https://login.persona.org/) for authentication.
+* [Python Social Auth](https://github.com/omab/python-social-auth) - Social authentication/registration mechanism with support for a large number of [providers](https://github.com/omab/python-social-auth#auth-providers).
 
 ## Authorization
 
