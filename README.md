@@ -73,6 +73,7 @@ A curated list of awesome Pyramid apps, projects and resources. Inspired by and 
 
 * [ziggurat_foundations](https://github.com/ergo/ziggurat_foundations) - Framework agnostic set of sqlalchemy classes that make building applications that require permissions an easy task.
 * [pyramid_multiauth](https://github.com/mozilla-services/pyramid_multiauth) - An authentication policy for Pyramid that proxies to a stack of other authentication policies.
+* [pyramid_authstack](https://github.com/wichert/pyramid_authstack) -  Use multiple authentication policies with Pyramid.
 * [horus](https://github.com/Pylons/horus) - User registration and login system for the Pyramid Web Framework.
 
 ## Caching
