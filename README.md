@@ -238,3 +238,9 @@ Where to discover new Pyramid apps and projects.
 # Contributing
 
 Just fork and send a pull request with your awesome Pyramid apps, projects or resources.
+
+## License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, ITCase has waived all copyright and related or neighboring rights to this work.
