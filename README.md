@@ -120,6 +120,7 @@ A curated list of awesome Pyramid apps, projects and resources. Inspired by and 
 * [cornice](https://github.com/mozilla-services/cornice) - provides helpers to build & document REST-ish Web Services with Pyramid, with decent default behaviors. It takes care of following the HTTP specification in an automated way where possible.
 * [rest_toolkit](https://github.com/wichert/rest_toolkit) - is a Python package which provides a very convenient way to build REST servers. It is build on top of Pyramid, but you do not need to know much about Pyramid to use rest_toolkit.
 * [pyramid_royal](https://github.com/hadrien/pyramid_royal) - Royal is a pyramid extension which eases writing RESTful web applications.
+* [cliquet](https://github.com/mozilla-services/cliquet) - Cliquet is a toolkit to ease the implementation of HTTP microservices, such as data-driven REST APIs.
 
 ## Search
 
