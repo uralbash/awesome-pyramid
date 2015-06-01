@@ -109,6 +109,7 @@ A curated list of awesome Pyramid apps, projects and resources. Inspired by and 
 * [colander](https://github.com/Pylons/colander) - A serialization/deserialization/validation library for strings, mappings and lists.
 * [WTForms](https://github.com/wtforms/wtforms) - is a flexible forms validation and rendering library for python web development.
 * [ColanderAlchemy](https://github.com/stefanofontanelli/ColanderAlchemy) - helps you to auto-generate Colander schemas that are based on SQLAlchemy mapped classes.
+* [marshmallow](https://github.com/marshmallow-code/marshmallow) - A lightweight library for converting complex objects to and from simple Python datatypes (i.e. (de)serialization and validation).
 
 ## Media-Management
 
@@ -122,6 +123,7 @@ A curated list of awesome Pyramid apps, projects and resources. Inspired by and 
 * [rest_toolkit](https://github.com/wichert/rest_toolkit) - is a Python package which provides a very convenient way to build REST servers. It is build on top of Pyramid, but you do not need to know much about Pyramid to use rest_toolkit.
 * [pyramid_royal](https://github.com/hadrien/pyramid_royal) - Royal is a pyramid extension which eases writing RESTful web applications.
 * [cliquet](https://github.com/mozilla-services/cliquet) - Cliquet is a toolkit to ease the implementation of HTTP microservices, such as data-driven REST APIs.
+* [webargs](https://github.com/sloria/webargs) - A friendly library for parsing HTTP request arguments, with built-in support for popular web frameworks.
 
 ## Search
 
