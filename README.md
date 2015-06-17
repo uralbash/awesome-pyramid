@@ -124,6 +124,7 @@ A curated list of awesome Pyramid apps, projects and resources. Inspired by and 
 * [pyramid_royal](https://github.com/hadrien/pyramid_royal) - Royal is a pyramid extension which eases writing RESTful web applications.
 * [cliquet](https://github.com/mozilla-services/cliquet) - Cliquet is a toolkit to ease the implementation of HTTP microservices, such as data-driven REST APIs.
 * [webargs](https://github.com/sloria/webargs) - A friendly library for parsing HTTP request arguments, with built-in support for popular web frameworks.
+* [ramses](https://github.com/brandicted/ramses) - Generate a RESTful API using RAML. It uses Nefertari which provides ElasticSearch-powered views.
 
 ## Search
 
