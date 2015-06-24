@@ -125,6 +125,7 @@ A curated list of awesome Pyramid apps, projects and resources. Inspired by and 
 * [cliquet](https://github.com/mozilla-services/cliquet) - Cliquet is a toolkit to ease the implementation of HTTP microservices, such as data-driven REST APIs.
 * [webargs](https://github.com/sloria/webargs) - A friendly library for parsing HTTP request arguments, with built-in support for popular web frameworks.
 * [ramses](https://github.com/brandicted/ramses) - Generate a RESTful API using RAML. It uses Nefertari which provides ElasticSearch-powered views.
+* [nefertari](https://github.com/brandicted/nefertari) -  Nefertari is a REST API framework sitting on top of Pyramid and ElasticSearch
 
 ## Search
 
