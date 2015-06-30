@@ -35,6 +35,7 @@ A curated list of awesome Pyramid apps, projects and resources. Inspired by and 
     - [Websites](#websites)
     - [Conferences](#conferences)
     - [Videos](#videos)
+    - [Who uses it?](#who-uses-it)
 - [Contributing](#contributing)
 
 ## Admin interface
@@ -239,6 +240,11 @@ Where to discover new Pyramid apps and projects.
 ## Conferences
 
 ## Videos
+
+## Who uses it?
+
+* [Companies and organizations that use Pyramid](https://github.com/Pylons/pyramid/wiki/Companies-and-organizations-that-use-Pyramid)
+* [Projects that use Pyramid](https://github.com/Pylons/pyramid/wiki/Projects-that-use-Pyramid)
 
 # Contributing
 
