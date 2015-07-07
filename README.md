@@ -44,6 +44,7 @@ A curated list of awesome Pyramid apps, projects and resources. Inspired by and 
 
 * [pyramid_formalchemy](https://github.com/FormAlchemy/pyramid_formalchemy) - provides a CRUD interface for pyramid based on FormAlchemy.
 * [pyramid_sacrud](https://github.com/ITCase/pyramid_sacrud) - Pyramid CRUD interface based on sacrud and SQLAlchemy(that is closer to django.contrib.admin).
+    * [ps_tree](https://github.com/ITCase/ps_tree) - extension for [pyramid_sacrud](https://github.com/ITCase/pyramid_sacrud) which displays a list of records as tree. This works fine with models from [sqlalchemy_mptt](https://github.com/ITCase/sqlalchemy_mptt). 
 
 ## Asset Management
 
