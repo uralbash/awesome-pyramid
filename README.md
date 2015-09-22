@@ -182,6 +182,8 @@ The easiest way to monitor and use [RQ](http://python-rq.org) in your Pyramid pr
 
 *Packages help with the task of translating projects.*
 
+* [lingua](https://github.com/wichert/lingua) - Lingua is a package with tools to extract translatable texts from your code, and to check existing translations. It replaces the use of the xgettext command from gettext, or pybabel from Babel.
+
 ## Web frontend integration
 
 ## Workflows
