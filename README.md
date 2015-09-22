@@ -70,6 +70,7 @@ A curated list of awesome Pyramid apps, projects and resources. Inspired by and 
 * [Python Social Auth](https://github.com/omab/python-social-auth) - Social authentication/registration mechanism with support for a large number of [providers](https://github.com/omab/python-social-auth#auth-providers).
 * [Authomatic](https://github.com/peterhudec/authomatic) -  Simple yet powerful authorization / authentication client library for Python web applications.
 * [apex](https://github.com/cd34/apex) - Toolkit for Pyramid, a Pylons Project, to add Authentication and Authorization using Velruse (OAuth) and/or a local database, CSRF, ReCaptcha, Sessions, Flash messages and I18N.
+* [pyramid_authsanity](https://github.com/usingnamespace/pyramid_authsanity) - That will make it simpler to have a secure authentication policy with an easy to use backend.
 
 
 ## Authorization
