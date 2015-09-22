@@ -147,6 +147,7 @@ A curated list of awesome Pyramid apps, projects and resources. Inspired by and 
 *Packages that help manage the configurability of projects.*
 
 * [pyramid_zcml](https://github.com/Pylons/pyramid_zcml) - Zope Configuration Markup Language configuration support for Pyramid.
+* [pyramid_services](https://github.com/mmerickel/pyramid_services) - defines a pattern and helper methods for accessing a pluggable service layer from within your Pyramid apps.
 
 ## Storage
 
