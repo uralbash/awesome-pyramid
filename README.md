@@ -154,6 +154,9 @@ A curated list of awesome Pyramid apps, projects and resources. Inspired by and 
 
 *Packages that extend the functionality of the existing storage backend or provide new storage backends.*
 
+* [pyramid_tm](https://github.com/Pylons/pyramid_tm) - Centralized transaction management for Pyramid applications (without middleware).
+* [zope.sqlalchemy](https://github.com/zopefoundation/zope.sqlalchemy) - Integration of SQLAlchemy with transaction management.
+    * [What the Zope Transaction Manager Means To Me (and you)](https://metaclassical.com/what-the-zope-transaction-manager-means-to-me-and-you/)
 * [pyramid_sqlalchemy](https://github.com/wichert/pyramid_sqlalchemy) - provides some basic glue to facilitate using SQLAlchemy with Pyramid.
 * [pyramid_zodbconn](https://github.com/Pylons/pyramid_zodbconn) - ZODB Database connection management for Pyramid.
 * [pyramid_mongoengine](https://github.com/marioidival/pyramid_mongoengine) - pyramid-mongoengine package based on flask-mongoengine
@@ -199,7 +202,6 @@ The easiest way to monitor and use [RQ](http://python-rq.org) in your Pyramid pr
 * [pyramid_handlers](https://github.com/Pylons/pyramid_handlers) - analogue of Pylons-style “controllers” for Pyramid.
 * [pyramid_rpc](https://github.com/Pylons/pyramid_rpc) - RPC service add-on for Pyramid, supports XML-RPC in a more extensible manner than pyramid_xmlrpc with support for JSON-RPC and AMF.
 * [pyramid_autodoc](https://github.com/SurveyMonkey/pyramid_autodoc) - Sphinx extension for documenting your Pyramid APIs.
-* [pyramid_tm](https://github.com/Pylons/pyramid_tm) - Centralized transaction management for Pyramid applications (without middleware).
 * [pyramid_pages](https://github.com/ITCase/pyramid_pages) - Provides a collections of tree pages to your Pyramid application. This is very similar to django.contrib.flatpages but with a tree structure and traversal algorithm in URL dispath.
 * [paginate](https://github.com/Pylons/paginate) - Python pagination module.
 * [pyramid_tablib](https://github.com/lxneng/pyramid_tablib) - tablib renderer (xlsx, xls, csv) for pyramid
