@@ -99,6 +99,7 @@ A curated list of awesome Pyramid apps, projects and resources. Inspired by and 
 * [pyramid_debugtoolbar](https://github.com/Pylons/pyramid_debugtoolbar) - provides a debug toolbar useful while you're developing your Pyramid application.
 * [pyramid_exclog](https://github.com/Pylons/pyramid_exclog) - a package which logs exceptions from Pyramid applications.
 * [pyramid_debugtoolbar_dogpile](https://github.com/jvanasco/pyramid_debugtoolbar_dogpile) - dogpile caching support for pyramid_debugtoolbar
+* [pyramid_ipython](https://github.com/Pylons/pyramid_ipython) -  IPython bindings for Pyramid's pshell.
 
 ## Email
 
