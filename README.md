@@ -8,7 +8,7 @@ A curated list of awesome Pyramid apps, projects and resources. Inspired by and 
     - [Async](#async)
     - [Authentication](#authentication)
     - [Authorization](#authorization)
-    - [Caching & Session](#caching)
+    - [Caching & Session](#caching--session)
     - [Debugging](#debugging)
     - [Email](#email)
     - [Forms](#forms)
