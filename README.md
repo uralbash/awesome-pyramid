@@ -72,6 +72,12 @@ A curated list of awesome Pyramid apps, projects and resources. Inspired by and 
 * [Authomatic](https://github.com/peterhudec/authomatic) -  Simple yet powerful authorization / authentication client library for Python web applications.
 * [apex](https://github.com/cd34/apex) - Toolkit for Pyramid, a Pylons Project, to add Authentication and Authorization using Velruse (OAuth) and/or a local database, CSRF, ReCaptcha, Sessions, Flash messages and I18N.
 * [pyramid_authsanity](https://github.com/usingnamespace/pyramid_authsanity) - That will make it simpler to have a secure authentication policy with an easy to use backend.
+* [pyramid_jwt](https://github.com/wichert/pyramid_jwt) - This package implements an authentication policy for Pyramid that using [JSON Web Tokens]. This standard ([RFC 7519]) is often used to secure
+backens APIs. The excellent [PyJWT] library is used for the JWT encoding / decoding logic.
+
+  [JSON Web Tokens]: http://jwt.io/
+  [RFC 7519]: https://tools.ietf.org/html/rfc7519
+  [PyJWT]: https://pyjwt.readthedocs.org/en/latest/
 
 
 ## Authorization
