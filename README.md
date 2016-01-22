@@ -55,6 +55,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
       [pyramid_sacrud](https://github.com/sacrud/pyramid_sacrud) which displays
       a list of records as tree. This works fine with models from
       [sqlalchemy_mptt](https://github.com/uralbash/sqlalchemy_mptt).
+* [Websauna](https://websauna.org) - a full stack application framework for Pyramid
 
 ## Asset Management
 
