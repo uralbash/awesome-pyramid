@@ -216,9 +216,9 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
   APIs.
 * [webargs](https://github.com/sloria/webargs) - A friendly library for parsing
   HTTP request arguments, with built-in support for popular web frameworks.
-* [ramses](https://github.com/brandicted/ramses) - Generate a RESTful API using
+* [ramses](https://github.com/ramses-tech/ramses) - Generate a RESTful API using
   RAML. It uses Nefertari which provides ElasticSearch-powered views.
-* [nefertari](https://github.com/brandicted/nefertari) -  Nefertari is a REST
+* [nefertari](https://github.com/ramses-tech/nefertari) -  Nefertari is a REST
   API framework sitting on top of Pyramid and ElasticSearch
 * [pyramid_swagger](https://github.com/striglia/pyramid_swagger) - Convenient
   tools for using Swagger to define and validate your interfaces in a Pyramid webapp.
