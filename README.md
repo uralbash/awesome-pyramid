@@ -220,6 +220,8 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
   RAML. It uses Nefertari which provides ElasticSearch-powered views.
 * [nefertari](https://github.com/brandicted/nefertari) -  Nefertari is a REST
   API framework sitting on top of Pyramid and ElasticSearch
+* [pyramid_swagger](https://github.com/striglia/pyramid_swagger) - Convenient
+  tools for using Swagger to define and validate your interfaces in a Pyramid webapp.
 
 ## Search
 
