@@ -48,9 +48,15 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
 
 * [pyramid_formalchemy](https://github.com/FormAlchemy/pyramid_formalchemy) -
   provides a CRUD interface for pyramid based on FormAlchemy.
-* [pyramid_sacrud](https://github.com/sacrud/pyramid_sacrud) - Pyramid CRUD
-  interface based on sacrud and SQLAlchemy(that is closer to
-  django.contrib.admin).
+* [pyramid_sacrud](https://github.com/sacrud/pyramid_sacrud) -    Pyramid CRUD interface.
+  Provides an administration web interface for Pyramid.
+  Unlike classic CRUD, pyramid_sacrud allows overrides and flexibility to
+  customize your interface, similar to django.contrib.admin but uses a
+  different backend to provide resources. [New Architecture](
+  <http://pyramid-sacrud.readthedocs.org/en/latest/pages/contribute/architecture.html>)
+  built on the resources and mechanism traversal, allows to use it in various cases.
+    * [ps_alchemy](https://github.com/sacrud/ps_alchemy) - extension for pyramid_sacrud
+      which provides SQLAlchemy models.
     * [ps_tree](https://github.com/sacrud/ps_tree) - extension for
       [pyramid_sacrud](https://github.com/sacrud/pyramid_sacrud) which displays
       a list of records as tree. This works fine with models from
