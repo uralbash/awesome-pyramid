@@ -409,9 +409,8 @@ Where to discover new Pyramid apps and projects.
 
 ## Websites
 
-* [Try Pyramid](https://trypyramid.com/) - Pyramid is easy to set up and use.
-* [Pyramid site](http://www.pylonsproject.org/projects/pyramid/about) -
-  official site of Pyramid.
+* [Try Pyramid](https://trypyramid.com/) - The Start Small, Finish Big,
+  Stay Finished Framework. Official website.
 
 ## Conferences
 
