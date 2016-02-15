@@ -143,8 +143,8 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
   factory backend for Pyramid, also cache configurator.
     * [Why You'll Want to Switch to
       dogpile.cache](http://techspot.zzzeek.org/2012/04/19/using-beaker-for-caching-why-you-ll-want-to-switch-to-dogpile.cache/)
-* [pyramid_redis_sessions](https://github.com/ericrasmussen/pyramid_redis_sessions)
-  - Pyramid web framework session factory backed by Redis.
+* [pyramid_redis_sessions](https://github.com/ericrasmussen/pyramid_redis_sessions) -
+  Pyramid web framework session factory backed by Redis.
 * [pyramid_dogpile_cache](https://github.com/moriyoshi/pyramid_dogpile_cache) -
   dogpile.cache configuration package for Pyramid
 * [pyramid_sessions](https://github.com/joulez/pyramid_sessions) - Multiple
@@ -163,8 +163,8 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
   application.
 * [pyramid_exclog](https://github.com/Pylons/pyramid_exclog) - a package which
   logs exceptions from Pyramid applications.
-* [pyramid_debugtoolbar_dogpile](https://github.com/jvanasco/pyramid_debugtoolbar_dogpile)
-  - dogpile caching support for pyramid_debugtoolbar
+* [pyramid_debugtoolbar_dogpile](https://github.com/jvanasco/pyramid_debugtoolbar_dogpile) -
+  dogpile caching support for pyramid_debugtoolbar
 * [pyramid_ipython](https://github.com/Pylons/pyramid_ipython) - IPython
   bindings for Pyramid's pshell
 * [pyramid_bpython](https://github.com/Pylons/pyramid_bpython) - bpython
