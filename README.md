@@ -267,6 +267,8 @@ provide new storage backends.*
   Database connection management for Pyramid.
 * [pyramid_mongoengine](https://github.com/marioidival/pyramid_mongoengine) -
   pyramid-mongoengine package based on flask-mongoengine
+* [pyramid_mongodb](https://github.com/niallo/pyramid_mongodb) - 
+  Basic Pyramid Scaffold to easily use MongoDB for persistence with the Pyramid Web framework
 
 ## Task Queue
 
