@@ -169,7 +169,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
   bindings for Pyramid's pshell
 * [pyramid_bpython](https://github.com/Pylons/pyramid_bpython) - bpython
   bindings for Pyramid's pshell
-
+* [pyramid_pycallgraph](https://github.com/disko/pyramid_pycallgraph) - Pyramid tween to generate a callgraph image for every request
 
 ## Email
 
@@ -179,6 +179,9 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
   sending email from your Pyramid application.
 * [pyramid_marrowmailer](https://github.com/domenkozar/pyramid_marrowmailer) -
   Pyramid integration package for marrow.mailer, formerly known as TurboMail
+* [pyramid_mailgun](https://github.com/domenkozar/pyramid_marrowmailer) -
+  Pyramid integration package for marrow.mailer, formerly known as TurboMail
+
 
 ## Forms
 
@@ -202,6 +205,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
 
 * [pyramid_elfinder](https://github.com/uralbash/pyramid_elfinder) - This is
   conector for elfinder file manager, written for pyramid framework.
+* [pyramid_storage](https://github.com/danjac/pyramid_storage) - This is a package for handling file uploads in your Pyramid framework application.
 
 ## RESTful API
 
@@ -340,6 +344,7 @@ provide new storage backends.*
   (xlsx, xls, csv) for pyramid
 * [tomb_routes](https://github.com/sontek/tomb_routes) - Simple utility library
   around pyramid routing
+* [pyramid_extdirect](https://github.com/jenner/pyramid_extdirect) - This pyramid plugin provides a router for the ExtDirect Sencha API included in ExtJS. ExtDirect allows to run server-side callbacks directly through JavaScript without the extra AJAX boilerplate. 
 
 # Projects
 
@@ -400,6 +405,7 @@ provide new storage backends.*
 * [warehouse](https://github.com/pypa/warehouse) - Warehouse is a next
   generation Python Package Repository designed to replace the legacy code base
   that currently powers PyPI.
+* [travelcrm](http://www.travelcrm.org.ua/) - TravelCRM is effective free and open source application for the automation of customer relationships for travel agencies at all levels, from small to large networks.
 
 ## Project Management
 
