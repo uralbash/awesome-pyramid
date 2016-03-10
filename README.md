@@ -169,7 +169,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
   bindings for Pyramid's pshell
 * [pyramid_bpython](https://github.com/Pylons/pyramid_bpython) - bpython
   bindings for Pyramid's pshell
-
+* [pyramid_pycallgraph](https://github.com/disko/pyramid_pycallgraph) - Pyramid tween to generate a callgraph image for every request
 
 ## Email
 
@@ -179,6 +179,9 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
   sending email from your Pyramid application.
 * [pyramid_marrowmailer](https://github.com/domenkozar/pyramid_marrowmailer) -
   Pyramid integration package for marrow.mailer, formerly known as TurboMail
+* [pyramid_mailgun](https://github.com/domenkozar/pyramid_marrowmailer) -
+  Pyramid integration package for marrow.mailer, formerly known as TurboMail
+
 
 ## Forms
 
