@@ -202,6 +202,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
 
 * [pyramid_elfinder](https://github.com/uralbash/pyramid_elfinder) - This is
   conector for elfinder file manager, written for pyramid framework.
+* [pyramid_storage](https://github.com/danjac/pyramid_storage) - This is a package for handling file uploads in your Pyramid framework application.
 
 ## RESTful API
 
