@@ -340,6 +340,7 @@ provide new storage backends.*
   (xlsx, xls, csv) for pyramid
 * [tomb_routes](https://github.com/sontek/tomb_routes) - Simple utility library
   around pyramid routing
+* [pyramid_extdirect](https://github.com/jenner/pyramid_extdirect) - This pyramid plugin provides a router for the ExtDirect Sencha API included in ExtJS . ExtDirect allows to run server-side callbacks directly through JavaScript without the extra AJAX boilerplate. 
 
 # Projects
 
