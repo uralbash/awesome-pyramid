@@ -415,6 +415,9 @@ Where to discover new Pyramid apps and projects.
 
 ## Books
 
+* [Python Web Frameworks](http://www.oreilly.com/web-platform/free/python-web-frameworks.csp) - Dive into details on the top
+   six Python frameworks—Django, Flask, Tornado, Bottle, Pyramid, and CherryPy.
+
 ## Websites
 
 * [Try Pyramid](https://trypyramid.com/) - The Start Small, Finish Big,
