@@ -20,6 +20,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
     - [RESTful API](#restful-api)
     - [Search](#search)
     - [Security](#security)
+    - [Services](#services)
     - [Settings](#settings)
     - [Storage](#storage)
     - [Task Queue](#task-queue)
@@ -182,7 +183,6 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
 * [pyramid_mailgun](https://github.com/evannook/pyramid_mailgun) -
   Pyramid integration package for marrow.mailer, formerly known as TurboMail
 
-
 ## Forms
 
 *Packages that extend the functionality of forms or add new types of forms.*
@@ -243,6 +243,11 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
 ## Security
 
 *Packages that improve the security of a project.*
+
+## Services
+
+* [pyramid_sms](https://github.com/websauna/pyramid_sms) -
+   SMS services for Pyramid web framework.
 
 ## Settings
 
