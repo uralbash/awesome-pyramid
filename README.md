@@ -54,7 +54,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
   Unlike classic CRUD, pyramid_sacrud allows overrides and flexibility to
   customize your interface, similar to django.contrib.admin but uses a
   different backend to provide resources. [New Architecture](
-  <http://pyramid-sacrud.readthedocs.org/en/latest/pages/contribute/architecture.html>)
+  <http://pyramid-sacrud.readthedocs.io/en/latest/pages/contribute/architecture.html>)
   built on the resources and mechanism traversal, allows to use it in various cases.
     * [ps_alchemy](https://github.com/sacrud/ps_alchemy) - extension for pyramid_sacrud
       which provides SQLAlchemy models.
@@ -62,7 +62,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
       [pyramid_sacrud](https://github.com/sacrud/pyramid_sacrud) which displays
       a list of records as tree. This works fine with models from
       [sqlalchemy_mptt](https://github.com/uralbash/sqlalchemy_mptt).
-* [Websauna](https://websauna.org) - a full stack application framework for Pyramid
+* [Websauna](https://websauna.org/docs/) - a full stack application framework for Pyramid
 
 ## Asset Management
 
@@ -116,9 +116,9 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
   This standard ([RFC 7519]) is often used to secure backens APIs. The
   excellent [PyJWT] library is used for the JWT encoding / decoding logic.
 
-  [JSON Web Tokens]: http://jwt.io/
+  [JSON Web Tokens]: https://jwt.io/
   [RFC 7519]: https://tools.ietf.org/html/rfc7519
-  [PyJWT]: https://pyjwt.readthedocs.org/en/latest/
+  [PyJWT]: https://pyjwt.readthedocs.io/en/latest/
 
 
 ## Authorization
@@ -152,7 +152,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
   session support for the Pyramid Web Framework
 * [pyramid_nacl_session](https://github.com/Pylons/pyramid_nacl_session) -
   defines an encrypting, pickle-based cookie serializer, using
-  [PyNaCl](http://pynacl.readthedocs.org/en/latest/secret/) to generate the
+  [PyNaCl](http://pynacl.readthedocs.io/en/latest/secret/) to generate the
   symmetric encryption for the cookie state.
 
 ## Debugging
@@ -373,7 +373,7 @@ provide new storage backends.*
   create applications.
 * [Kotti](https://github.com/Kotti/Kotti) - A user-friendly, light-weight and
   extensible web content management system. Based on Pyramid and SQLAlchemy.
-* [KARL](https://karlproject.readthedocs.org/en/latest/) - A moderately-sized
+* [KARL](https://karlproject.readthedocs.io/en/latest/) - A moderately-sized
   application (roughly 80K lines of Python code) built on top of Pyramid. It is
   an open source web
   system for collaboration, organizational intranets, and knowledge management.
