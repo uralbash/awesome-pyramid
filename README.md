@@ -54,7 +54,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
   Unlike classic CRUD, pyramid_sacrud allows overrides and flexibility to
   customize your interface, similar to django.contrib.admin but uses a
   different backend to provide resources. [New Architecture](
-  <http://pyramid-sacrud.readthedocs.io/en/latest/pages/contribute/architecture.html>)
+  <http://pyramid-sacrud.readthedocs.io/pages/contribute/architecture.html>)
   built on the resources and mechanism traversal, allows to use it in various cases.
     * [ps_alchemy](https://github.com/sacrud/ps_alchemy) - extension for pyramid_sacrud
       which provides SQLAlchemy models.
