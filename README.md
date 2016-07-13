@@ -84,6 +84,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
 * [Stargate](https://github.com/boothead/stargate) - Stargate is a package for
   adding WebSockets support to pyramid applications using the excellent
   eventlet library for long running connections.
+* [channelstream](https://github.com/AppEnlight/channelstream) - websocket communication server (gevent).
 
 ## Authentication
 
