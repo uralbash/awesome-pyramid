@@ -432,6 +432,8 @@ Where to discover new Pyramid apps and projects.
 
 ## Conferences
 
+* [PloneConf 2016](https://2016.ploneconf.org/) - Boston Plone Digital Experience Conference (17~23 Oct. 2016)
+
 ## Videos
 
 * [Web Applications with Python and the Pyramid
