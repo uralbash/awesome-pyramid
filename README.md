@@ -302,6 +302,7 @@ provide new storage backends.*
   templating system bindings for the Pyramid web framework.
 * [Tonnikala](https://github.com/ztane/Tonnikala) - Python templating engine
   with Pyramid integration
+* [Kajiki](https://github.com/nandoflorestan/kajiki) - provides fast well-formed XML templates, with [Pyramid integration](https://github.com/nandoflorestan/kajiki/blob/master/kajiki/integration/pyramid.py)
 
 ## Testing
 
