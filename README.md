@@ -458,10 +458,8 @@ Where to discover new Pyramid apps and projects.
 
 ## Who uses it?
 
-* [Companies and organizations that use
-  Pyramid](https://github.com/Pylons/pyramid/wiki/Companies-and-organizations-that-use-Pyramid)
-* [Projects that use
-  Pyramid](https://github.com/Pylons/pyramid/wiki/Projects-that-use-Pyramid)
+* [Projects, Websites, Companies and Organizations that use
+  Pyramid](https://trypyramid.com/community-powered-by-pyramid.html) - add your project to the list
 
 # Contributing
 
