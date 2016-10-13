@@ -414,8 +414,11 @@ provide new storage backends.*
   generation Python Package Repository designed to replace the legacy code base
   that currently powers PyPI.
 * [travelcrm](http://www.travelcrm.org.ua/) - TravelCRM is effective free and open source application for the automation of customer relationships for travel agencies at all levels, from small to large networks.
+* [RhodeCode](https://rhodecode.com/) - enterprise source code management platform. It applies unified user control, permissions, code reviews, and tool integration across Mercurial, Git, and Subversion repositories. Large and growing software teams all over the world use RhodeCode to collaborate in a secure, behind-the-firewall environment. 
 
 ## Project Management
+
+* [AppEnlight](https://getappenlight.com/) - Performance, exception, and uptime monitoring for the Web
 
 # Resources
 
