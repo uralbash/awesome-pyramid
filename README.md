@@ -212,7 +212,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
 
 *Packages for developing RESTful APIs.*
 
-* [cornice](https://github.com/mozilla-services/cornice) - provides helpers to
+* [cornice](https://github.com/Cornices/cornice) - provides helpers to
   build & document REST-ish Web Services with Pyramid, with decent default
   behaviors. It takes care of following the HTTP specification in an automated
   way where possible.
