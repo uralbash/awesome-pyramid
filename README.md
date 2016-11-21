@@ -265,6 +265,8 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
 * [pyramid_services](https://github.com/mmerickel/pyramid_services) - defines a
   pattern and helper methods for accessing a pluggable service layer from
   within your Pyramid apps.
+* [hupper](https://github.com/Pylons/hupper) - A process monitor/reloader for developers
+    that can watch files for changes and restart the process.
 
 ## Storage
 
