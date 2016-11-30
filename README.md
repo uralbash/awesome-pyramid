@@ -142,7 +142,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
   multiple authentication policies with Pyramid.
 * [horus](https://github.com/Pylons/horus) - User registration and login system
   for the Pyramid Web Framework.
-* [pyramid_yosai](https://github.com/YosaiProject/pyramid_yosai) - Pyramid integration with security Framework for Python applications featuring Authorization (rbac permissions and roles), Authentication (2fa totp), Session Management and an extensive Audit Trail http://yosaiproject.github.io/yosai 
+* [pyramid_yosai](https://github.com/YosaiProject/pyramid_yosai) - Pyramid integration with security Framework for Python applications featuring Authorization (rbac permissions and roles), Authentication (2fa totp), Session Management and an extensive Audit Trail https://yosaiproject.github.io/yosai 
 
 ## Caching & Session
 
