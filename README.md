@@ -6,12 +6,6 @@ Freenode](https://img.shields.io/badge/irc-freenode-blue.svg)](https://webchat.f
 A curated list of awesome Pyramid apps, projects and resources. Inspired by and
 based on [awesome-python](https://github.com/vinta/awesome-python/).
 
-> [DragonSprint 2016](http://dragonsprint.com/) is a week-long sprint on Pyramid.
->
-> The sprint takes place in Ljubljana, Slovenia, EU in the first week of **December** (**5th to 9th**).
-
-> The main two sprint topics are Pyramid 2.0 and Pyramid for Newcomers.
-
 - [Awesome Pyramid](#awesome-pyramid)
     - [Admin Interface](#admin-interface)
     - [Asset Management](#asset-management)
