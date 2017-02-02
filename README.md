@@ -116,6 +116,8 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
   implements an authentication policy for Pyramid that using [JSON Web Tokens].
   This standard ([RFC 7519]) is often used to secure backens APIs. The
   excellent [PyJWT] library is used for the JWT encoding / decoding logic.
+* [pyramid_ipauth](https://github.com/mozilla-services/pyramid_ipauth) -
+  Pyramid authentication policy based on remote ip address.
 
   [JSON Web Tokens]: https://jwt.io/
   [RFC 7519]: https://tools.ietf.org/html/rfc7519
