@@ -369,6 +369,7 @@ provide new storage backends.*
 * [Ringo](http://www.ringo-framework.org/) - Ringo is a Python based high level
   web application framework build on top of Pyramid. The framework can be used
   to build form based management or administration software.
+* [cone.app](https://github.com/bluedynamics/cone.app) - A comprehensive web application stub on top of Pyramid.
 
 ## CMS
 
