@@ -32,6 +32,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
 - [Projects](#projects)
     - [Framework](#framework)
     - [CMS](#cms)
+    - [Cookiecutters](#cookiecutters)
     - [e-Commerce](#e-commerce)
     - [Project Management](#project-management)
     - [Other](#other)
@@ -390,6 +391,10 @@ provide new storage backends.*
   It provides facilities for wikis, calendars, manuals, searching, tagging,
   commenting, and file uploads. See the KARL site for download and installation
   details.
+  
+## Cookiecutters
+
+* [Pylons](https://github.com/Pylons?q=cookiecutter) - official cookiecutter templates
 
 ## e-Commerce
 
