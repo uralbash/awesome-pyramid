@@ -6,9 +6,6 @@ Freenode](https://img.shields.io/badge/irc-freenode-blue.svg)](https://webchat.f
 A curated list of awesome Pyramid apps, projects and resources. Inspired by and
 based on [awesome-python](https://github.com/vinta/awesome-python/).
 
-> **[Pyramid Workshop in Munich, Germany.](https://pyconweb.com/talks/28-05-2017/pyramid-workshop)**
-> (May 28, 2017, 10:30 a.m. - 12:30 p.m.)
-
 - [Awesome Pyramid](#awesome-pyramid)
     - [Admin Interface](#admin-interface)
     - [Asset Management](#asset-management)
@@ -450,6 +447,7 @@ Where to discover new Pyramid apps and projects.
 
 ## Conferences
 
+* [Pyramid Workshop in Munich, Germany.](https://pyconweb.com/talks/28-05-2017/pyramid-workshop) (May 28, 2017, 10:30 a.m. - 12:30 p.m.)
 * [PloneConf 2017](https://2017.ploneconf.org/) - Barcelona Plone Digital Experience Conference (16~22 Oct. 2017)
 * [PloneConf 2016](https://2016.ploneconf.org/) - Boston Plone Digital Experience Conference (17~23 Oct. 2016)
 * [DragonSprint 2016](http://dragonsprint.com/) - DragonSprint is a week-long sprint on Pyramid. The sprint takes place in Ljubljana, Slovenia, EU in the first week of December (5th to 9th). The main two sprint topics are Pyramid 2.0 and Pyramid for Newcomers.
