@@ -325,6 +325,7 @@ provide new storage backends.*
   to extract translatable texts from your code, and to check existing
   translations. It replaces the use of the xgettext command from gettext, or
   pybabel from Babel.
+* [pyramid_i18n_helper](https://github.com/sahama/pyramid_i18n_helper) - helper to create new smgid and translate msgid to local langs .
 
 ## Web frontend integration
 
