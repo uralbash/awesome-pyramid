@@ -420,7 +420,7 @@ provide new storage backends.*
   documents, HTML documents, and images from a filesystem directory. It’s also
   a good example of traversal. An earlier version of this application runs the
   repoze.org website.
-* [Akhet](http://docs.pylonsproject.org/projects/akhet/en/latest/) -     A
+* [Akhet](https://docs.pylonsproject.org/projects/akhet/en/latest/) -     A
   Pyramid library and demo application with a Pylons-like feel. Its most known
   for its former application scaffold, which helped users transition from
       Pylons and those preferring a more Pylons-like API. The scaffold has been
@@ -463,7 +463,7 @@ Where to discover new Pyramid apps and projects.
 
 
 ## Videos
-* [List of videos from the official site](http://docs.pylonsproject.org/projects/pyramid_cookbook/en/latest/misc/videos.html)
+* [List of videos from the official site](https://docs.pylonsproject.org/projects/pyramid_cookbook/en/latest/misc/videos.html)
 * [Web Applications with Python and the Pyramid
   Framework](http://shop.oreilly.com/product/0636920041900.do) -
   In this Web Applications with Python and the Pyramid Framework training
