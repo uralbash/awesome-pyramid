@@ -394,6 +394,15 @@ provide new storage backends.*
 ## Cookiecutters
 
 * [Pylons](https://github.com/Pylons?q=cookiecutter) - official cookiecutter templates
+* [Pyramid Runner](https://github.com/asif-mahmud/pyramid_runner) - A minimal Pyramid
+  scaffold that aims to provide a starter template to build small to large web services.
+  
+  * Traversal based application
+  * JSON only response
+  * JWT authentication policy
+  * Alembic for database revisions
+  * Some simple modifications to base tests, views and models base to reduce typing
+
 
 ## e-Commerce
 
