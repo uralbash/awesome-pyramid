@@ -6,6 +6,8 @@ Freenode](https://img.shields.io/badge/irc-freenode-blue.svg)](https://webchat.f
 A curated list of awesome Pyramid apps, projects and resources. Inspired by and
 based on [awesome-python](https://github.com/vinta/awesome-python/).
 
+> ### [PloneConf 2017](https://2017.ploneconf.org/) - Barcelona Plone Digital Experience Conference (16~22 Oct. 2017)
+
 - [Awesome Pyramid](#awesome-pyramid)
     - [Admin Interface](#admin-interface)
     - [Asset Management](#asset-management)
