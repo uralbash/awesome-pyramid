@@ -464,6 +464,7 @@ Where to discover new Pyramid apps and projects.
 
 ## Videos
 * [List of videos from the official site](https://docs.pylonsproject.org/projects/pyramid_cookbook/en/latest/misc/videos.html)
+* [Online Video Courses at Talk Python Training](https://training.talkpython.fm/courses/all)
 * [Web Applications with Python and the Pyramid
   Framework](http://shop.oreilly.com/product/0636920041900.do) -
   In this Web Applications with Python and the Pyramid Framework training
