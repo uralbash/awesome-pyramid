@@ -333,6 +333,8 @@ provide new storage backends.*
 
 ## Web frontend integration
 
+* [PyramidVue](https://github.com/eddyekofo94/pyramidVue) - Pyramid and VueJs (JavaScript) template with Hot-Module-Replacement starter template.
+
 ## Workflows
 
 *Packages that do process, procedure and/or business tasks management.*
