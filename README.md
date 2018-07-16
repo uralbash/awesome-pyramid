@@ -234,12 +234,14 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
 * [ramses](https://github.com/ramses-tech/ramses) - Generate a RESTful API using
   RAML. It uses Nefertari which provides ElasticSearch-powered views.
 * [nefertari](https://github.com/ramses-tech/nefertari) -  Nefertari is a REST
-  API framework sitting on top of Pyramid and ElasticSearch
+  API framework sitting on top of Pyramid and ElasticSearch.
 * [pyramid_swagger](https://github.com/striglia/pyramid_swagger) - Convenient
   tools for using Swagger to define and validate your interfaces in a Pyramid webapp.
 * [pyramid_jsonapi](https://github.com/colinhiggs/pyramid-jsonapi) - Automatically 
   create a [JSON API](http://jsonapi.org/) standard API from a database using the
   sqlAlchemy ORM and pyramid framework.
+* [pyramid_apispec](https://github.com/ergo/pyramid_apispec) - Create an OpenAPI
+  specification file using apispec and Marshmallow schemas.
 
 ## Search
 
