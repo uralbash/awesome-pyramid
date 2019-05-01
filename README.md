@@ -238,12 +238,14 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
 * [nefertari](https://github.com/ramses-tech/nefertari) -  Nefertari is a REST
   API framework sitting on top of Pyramid and ElasticSearch.
 * [pyramid_swagger](https://github.com/striglia/pyramid_swagger) - Convenient
-  tools for using Swagger to define and validate your interfaces in a Pyramid webapp.
+  tools for using Swagger to define and validate your interfaces in a Pyramid webapp. (SWagger 2.0 document)
+* [pyramid-openapi3](https://github.com/niteoweb/pyramid_openapi3) - Validate Pyramid views against an OpenAPI 3.0 document. Similar to pyramid_swagger but for openapi3
 * [pyramid_jsonapi](https://github.com/colinhiggs/pyramid-jsonapi) - Automatically 
   create a [JSON API](http://jsonapi.org/) standard API from a database using the
   sqlAlchemy ORM and pyramid framework.
 * [pyramid_apispec](https://github.com/ergo/pyramid_apispec) - Create an OpenAPI
   specification file using apispec and Marshmallow schemas.
+
 
 ## Search
 
