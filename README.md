@@ -185,8 +185,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/).
   sending email from your Pyramid application.
 * [pyramid_marrowmailer](https://github.com/domenkozar/pyramid_marrowmailer) -
   Pyramid integration package for marrow.mailer, formerly known as TurboMail
-* [pyramid_mailgun](https://github.com/evannook/pyramid_mailgun) -
-  Pyramid integration package for marrow.mailer, formerly known as TurboMail
+* [pyramid_mailgun](https://github.com/evannook/pyramid_mailgun) - Mailgun integration for Pyramid framework.
 
 ## Forms
 
