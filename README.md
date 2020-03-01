@@ -362,7 +362,7 @@ provide new storage backends.*
 * [pyramid_pages](https://github.com/uralbash/pyramid_pages) - Provides a
   collections of tree pages to your Pyramid application. This is very similar
   to django.contrib.flatpages but with a tree structure and traversal algorithm
-  in URL dispath.
+  in URL dispatch.
 * [paginate](https://github.com/Pylons/paginate) - Python pagination module.
 * [pyramid_tablib](https://github.com/lxneng/pyramid_tablib) - tablib renderer
   (xlsx, xls, csv) for pyramid
